@@ -2,7 +2,7 @@
 
 # Import an receipt processor image (from a .tar file):
 
-docker load -i my-image.tar
+docker load -i receiptprocessor-image.tar
 
 # Verify the Image
 
